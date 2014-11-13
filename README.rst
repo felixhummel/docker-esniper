@@ -2,6 +2,8 @@ Esniper in Docker
 =================
 Status: quick and dirty; works for me
 
+See http://esniper.sourceforge.net/
+
 Build the image::
 
     make build
